@@ -1,7 +1,9 @@
-package mariobanay.diplomski.cleancodearchitectureplay;
+package mariobanay.diplomski.cleancodearchitectureplay.presentation.ui.activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import mariobanay.diplomski.cleancodearchitectureplay.R;
 
 public class MainActivity extends AppCompatActivity {
 
